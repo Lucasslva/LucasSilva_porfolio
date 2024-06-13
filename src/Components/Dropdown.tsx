@@ -16,7 +16,7 @@ export default function Dropdown() {
           <a href="mailto:LucasSantos3005@proton.me">E-mail</a>
         </DropdownMenu.Item>
         <DropdownMenu.Item className="cursor-pointer px-4 py-2 text-sm text-yellow-400 hover:bg-yellow-50 rounded-md focus:outline-none">
-          <a href="/Lucas-Santos/CV_Lucas_Santos.pdf">Curriculum</a>
+          <a href="/Lucas-Santos/CV_Lucas-Silva.pdf">Curriculum</a>
         </DropdownMenu.Item>
         <DropdownMenu.Item className="cursor-pointer px-4 py-2 text-sm text-sky-400 hover:bg-blue-50  rounded-md focus:outline-none">
           <a href="https://linkedin.com/in/Lucas-S-Silva0001">LinkedIn</a>

@@ -46,8 +46,8 @@ export default function App() {
           </div>
           <div className="flex items-center gap-1 cursor-pointer">
             <a
-              href="/Lucas-Santos/CV_Lucas_Santos.pdf"
-              download="CV_Lucas_Santos.pdf"
+              href="/Lucas-Santos/CV_Lucas-Silva.pdf"
+              download="CV_Lucas-Silva.pdf"
             >
               Download CV
             </a>
